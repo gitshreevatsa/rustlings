@@ -1,0 +1,12 @@
+/workspace/rustlings/projects/guessing_game/target/debug/deps/libgetrandom-64b5640ff6168dee.rmeta: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util_libc.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/use_file.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lazy.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/linux_android.rs
+
+/workspace/rustlings/projects/guessing_game/target/debug/deps/getrandom-64b5640ff6168dee.d: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util_libc.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/use_file.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lazy.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/linux_android.rs
+
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lib.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/error_impls.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/util_libc.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/use_file.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/lazy.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.12/src/linux_android.rs:
